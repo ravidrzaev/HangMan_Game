@@ -1,4 +1,4 @@
-"""Hangman Game: The user enters the file path and index number of the word from the words_file.
+"""Hangman Game: The user enters the file path and index number of the word from the secret_words file.
 The user has 6 chances to guess all the letters in the secret word. """
 
 HANGMAN_PHOTOS = {0: """x-------x""",
