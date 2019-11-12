@@ -1,2 +1,2 @@
-# Python_Project
+# Hangman_Game
 Small Python Projects
